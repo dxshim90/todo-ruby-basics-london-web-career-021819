@@ -4,12 +4,12 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value = 5
+  value = "Bob"
   return value
 end
 
-def argue
-  
+def argue(name)
+  return argue
 end
 
 def greeting
